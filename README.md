@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning web scraping, web based database building and web based application developing
 - 💞️ I’m looking to collaborate on web based application development
-- 📫 How to reach me: calliasu2018@gmail.com
+- 📫 How to reach me: qiqisu2020@gmail.com
 
 <!---
 KeikeiSo/KeikeiSo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
