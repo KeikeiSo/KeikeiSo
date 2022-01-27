@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KeikeiSo
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning web scraping, web based database building and web based application developing
-- 💞️ I’m looking to collaborate on web based application development
+- 🌱 I’m currently learning database building, web based application development and cloud computing
+- 💞️ I’m looking to collaborate on web app development
 - 📫 How to reach me: qiqisu2020@gmail.com
 
 <!---
